@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Loadeksdi
+- 👋 Hi, I’m @Loadeksdi, in my last year of studies of Software and Information Systems at Efrei Paris, while working as an analyst developer at BNP Paribas.
 - 👀 I’m interested in programming, working out, listening to music and playing video games!
 - 🌱 I’m currently learning new bleeding-edge technologies such as Deno TS, Svelte and plan to try Remix JS while working on a big personal project with Godot.
 - 💞️ I’m looking to find a 3 month-long internship in development as early as mid-march 2023 :)
